@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: If you use this work, please cite it as below.
+title: MPA Europe species range maps
+type: dataset
+abstract: Habitat range maps for European marine species
+url: https://github.com/iobis/mpaeu_maps
+license: CC-BY-NC-4.0
+authors:
+  - family-names: Principe
+    given-names: Silas C.
+    orcid: "https://orcid.org/0000-0002-8059-6304"
+    affiliation: Ocean Biodiversity Information System, International Oceanographic Data and Information Exchange, Intergovernmental Oceanographic Commission, UNESCO
+  - family-names: Provoost
+    given-names: Pieter
+    orcid: "https://orcid.org/0000-0002-4236-0384"
+    affiliation: Ocean Biodiversity Information System, International Oceanographic Data and Information Exchange, Intergovernmental Oceanographic Commission, UNESCO
+  - family-names: Appeltans
+    given-names: Ward
+    affiliation: Ocean Biodiversity Information System, International Oceanographic Data and Information Exchange, Intergovernmental Oceanographic Commission, UNESCO
+  - family-names: Assis
+    given-names: Jorge
+    affiliation: Centre for Marine Sciences, University of Algarve; Faculty of Biosciences and Aquaculture, NORD University
+  - family-names: Burrows
+    given-names: Michael T.
+    affiliation: Scottish Association for Marine Science
+  - family-names: Stephenson
+    given-names: Fabrice
+    affiliation: Newcastle University
+  - family-names: Addamo
+    given-names: Anna
+    affiliation: Faculty of Biosciences and Aquaculture, NORD University
+  - family-names: Costello
+    given-names: Mark John
+    affiliation: Faculty of Biosciences and Aquaculture, NORD University
+  - name: Intergovernmental Oceanographic Commission of UNESCO
+    alias: IOC-UNESCO
+    website: "https://obis.org"
+date-released: 2025-10-21
