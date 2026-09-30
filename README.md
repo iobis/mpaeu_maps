@@ -1,5 +1,10 @@
 # <img src="logos/mpaeu_obis_logo.jpg" align="right" width="240" /> Mapping marine species distributions to inform the design of protected areas in Europe
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.23018410-blue)](https://doi.org/10.5281/zenodo.23018410)
+[![Products catalogue](https://raw.githubusercontent.com/iobis/badges/refs/heads/main/badges/obis-products_catalogue.svg)](https://products.obis.org/dataset/10-5281-zenodo-23018410)
+[![IOC](https://raw.githubusercontent.com/iobis/badges/refs/heads/main/badges/ioc-hlo1_healthy_ocean.svg)](https://www.ioc.unesco.org/en/mission-and-objectives)
+[![IOC](https://raw.githubusercontent.com/iobis/badges/refs/heads/main/badges/ioc-hlo3_resilience_to_climate_change.svg)](https://www.ioc.unesco.org/en/mission-and-objectives)
+
 ## Species distribution models for the MPA Europe project
 
 This repository contains the core information about the Species Distribution Models (SDMs) for marine species occurring in European waters, developed by OBIS as part of the MPA Europe project. It covers **12,039 species** and **6 biogenic habitats** (produced using Stacked SDMs).
